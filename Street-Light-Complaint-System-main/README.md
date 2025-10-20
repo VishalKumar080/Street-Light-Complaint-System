@@ -1,4 +1,4 @@
-![logo](https://github.com/vishalKumar80/Street-Light-Complaint-System/blob/main/frontend/public/assets/slcs_logo.png)
+![logo](https://github.com/SatwikGupta/Street-Light-Complaint-System/blob/main/frontend/public/assets/slcs_logo.png)
 
 This web-based application streamlines the process of reporting and managing street light malfunctions. It empowers citizens to report issues conveniently, 
 provides a centralized platform for administrators to address complaints efficiently, and fosters collaborative communication within the management team.
@@ -37,7 +37,7 @@ You can view the live preview of the project [here](https://slcms.vercel.app/).
 1. *Fork this repository:* Click the Fork button located in the top-right corner of this page to fork the repository.
 2. *Clone the repository:*
     ```bash
-    git clone https://github.com/satwikgupta/Street-Light-Complaint-System.git
+    git clone https://github.com/VishalKumar080/Street-Light-Complaint-System.git
     ```
     
 3. *Set .env file:*
