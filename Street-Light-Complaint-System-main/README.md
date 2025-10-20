@@ -1,4 +1,4 @@
-![logo](https://github.com/satwikgupta/Street-Light-Complaint-System/blob/main/frontend/public/assets/slcs_logo.png)
+![logo](https://github.com/vishalKumar80/Street-Light-Complaint-System/blob/main/frontend/public/assets/slcs_logo.png)
 
 This web-based application streamlines the process of reporting and managing street light malfunctions. It empowers citizens to report issues conveniently, 
 provides a centralized platform for administrators to address complaints efficiently, and fosters collaborative communication within the management team.
